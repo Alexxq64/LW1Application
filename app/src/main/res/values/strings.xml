@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Перевод между 10й и 2й системами счисления</string>
+    <string name="label_decimal_input">Десятичное число:</string>
+    <string name="label_binary_output">Бинарное число:</string>
+</resources>
